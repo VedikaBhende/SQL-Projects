@@ -1,0 +1,1 @@
+- SQL for Data Science course by UC Davis (Coursera): Final Project and practice problems based on datasets
